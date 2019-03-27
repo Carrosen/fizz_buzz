@@ -20,3 +20,4 @@ describe 'fizz_buzz' do
   end
 
 end
+
